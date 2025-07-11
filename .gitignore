@@ -1,3 +1,7 @@
 env
+<<<<<<< HEAD
 .env
-experiment
+
+=======
+.env
+>>>>>>> b630b485c0de91a7be6ce6bca2f185b9cc3448db
