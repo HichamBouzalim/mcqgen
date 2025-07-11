@@ -1,0 +1,21 @@
+MCQ,Choices,Correct
+What is generative Artificial Intelligence (AI) primarily focused on?,a: Analyzing existing information | b: Recognizing patterns | c: Creating new content | d: Predicting future outcomes,c
+Which type of neural networks are used in generative AI to generate new data?,a: Convolutional Neural Networks (CNN) | b: Recurrent Neural Networks (RNN) | c: Generative Adversarial Networks (GANs) | d: Deep Belief Networks (DBNs),c
+What is the main purpose of the Generator in Generative Adversarial Networks (GANs)?,a: Recognize real data | b: Generate new data | c: Improve the Discriminator | d: Evaluate the quality of data,b
+Which type of neural networks have shown significant progress in text generation?,a: Convolutional Neural Networks (CNN) | b: Recurrent Neural Networks (RNN) | c: Transformer-based neural networks | d: Deep Belief Networks (DBNs),c
+What is one application of generative AI in the field of text generation?,a: Creating 3D models | b: Generating music | c: Developing scientific simulations | d: Automated chatbots,d
+Which tool can generate detailed illustrations from text descriptions?,a: DALL·E | b: Midjourney | c: Stable Diffusion | d: Generative Adversarial Networks (GANs),a
+In which industry can generative AI be used to create virtual worlds and characters?,a: Healthcare | b: Agriculture | c: Film and gaming | d: Construction,c
+How can generative AI support musicians and producers?,a: Generate new music compositions | b: Analyze existing music | c: Create visual designs | d: Develop scientific simulations,a
+What aspect of research can generative AI enhance?,a: Data collection | b: Hypothesis generation | c: Participant recruitment | d: Statistical analysis,b
+Which of the following is NOT a potential benefit of generative AI?,a: Efficiency improvement | b: Creative support for artists | c: Increased bias in content | d: Innovation facilitation,c
+What is a key challenge associated with generative AI?,a: Quality control of generated content | b: Increased human labor | c: Reduced creativity | d: Limited data availability,a
+How can generative AI be misused?,a: Creating fake news | b: Enhancing data security | c: Promoting transparency | d: Improving productivity,a
+What ethical concern arises from generative AI in relation to ownership of generated works?,a: Lack of creativity | b: Ethical bias | c: Intellectual property rights | d: Data privacy concerns,c
+Why is human collaboration essential in the future of generative AI?,a: To slow down technological advancements | b: To replace human creativity | c: To enhance the quality of generated content | d: To eliminate the need for human involvement,c
+What potential does generative AI hold for the future?,a: Limiting creative possibilities | b: Increasing ethical concerns | c: Opening new horizons for innovation | d: Stagnating technological progress,c
+Which industry can benefit from the collaboration of human and machine in generative AI?,a: Agriculture | b: Construction | c: Healthcare | d: Art and entertainment,d
+What is the primary advantage of using generative AI in content creation?,a: Reduced efficiency | b: Increased bias | c: Enhanced individualization | d: Stifled innovation,c
+What is a potential risk associated with generative AI?,a: Quality control improvement | b: Ethical bias reduction | c: Reproduction of biases in generated content | d: Enhanced creativity,c
+How can generative AI contribute to scientific research?,a: Decreasing data availability | b: Slowing down hypothesis generation | c: Enhancing visualization and hypothesis generation | d: Limiting innovation,c
+What role does generative AI play in the future of creativity?,a: Replacing human input | b: Limiting artistic expression | c: Serving as a partner in creative processes | d: Eliminating the need for human involvement,c
